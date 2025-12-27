@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd8823b-6a07-4051-89e2-405020fa003b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ebd8823b-6a07-4051-89e2-405020fa003b" name="Changes" comment="Add Student.java and create student class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BetterStudentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BetterStudentManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1738943657860</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Student.java and create student class">
+      <option name="closed" value="true" />
+      <created>1766866016950</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766866016950</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Student.java and create student class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Student.java and create student class" />
   </component>
 </project>
